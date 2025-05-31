@@ -28,7 +28,7 @@ Aplicativo Python que analisa vídeos de estacionamento para detectar movimento 
 ```bash
 # Clone o repositório
 git clone https://github.com/eduardoalanonh/Detector-de-Movimento-para-Veiculo-Estacionado.git
-cd Detector-de-Movimento-para-Ve-culo-Estacionado
+cd Detector-de-Movimento-para-Veiculo-Estacionado
 
 # Instale as dependências
 pip install opencv-python numpy
